@@ -1,1 +1,7 @@
 git status => nima o'zgarishlar bo'lganini ko'rsatadi.
+git add file_nomi => file_nomini qo'shi qo'yadi.
+git add . => barcha filelarni qo'shi qo'yadi.
+git commit -m "nima qilganizni yozasiz shu yerga" => komment qoldirish
+git push origin main => main branchga o'zgarishlarni kommenti bilan yuklash
+
+
